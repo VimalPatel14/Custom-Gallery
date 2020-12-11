@@ -1,6 +1,6 @@
 # Custom-Gallery
 
-Preview
+Preview Image
 
 https://github.com/VimalPatel14/Custom-Gallery/blob/master/sc1.jpg
 
